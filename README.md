@@ -5,7 +5,7 @@
 <h2> DRAGON BATTLE </h2>
 
 [![DragonBattle](imgs/DragonBattle.png)](https://www.youtube.com/watch?v=XiZoWKbiMww&list=PLC3t2xd2C2pgTh75PGJoZG_BRF02V24AZ&index=1)
-<p><a href="documents/test.pdf" type="application/pdf"> Click here for project details. </a></p>
+<p><a href="docs/test.pdf" type="application/pdf"> Click here for project details. </a></p>
 
 <h2> HERO SKILLS </h2>
 
